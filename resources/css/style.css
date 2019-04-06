@@ -1,0 +1,28 @@
+body {
+  background-color: black;
+  text-align: center;
+  font-family: verdana, sans-serif;
+
+}
+h1 {
+  color: white;
+  font-weight: normal;
+  font-size: 50px;
+  text-transform: uppercase;
+    }
+h2 {
+  color: gray;
+  font-size: 21px;
+}
+a{
+  font-size: 16px;
+  color: aquamarine;
+}
+
+img {
+  align-items: center, vertical;
+}
+.Copyright {
+  text-align: right;
+  color: gray
+}
